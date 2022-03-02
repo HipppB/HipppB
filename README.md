@@ -5,7 +5,7 @@ Feel free to check my **[portfolio](https://bach.fr "Hippolyte Bach")**.
 
 ### Connect with me:
 
-[<img fill="white" alt="Hippolyte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://l.bach.fr/link "Hippolyte Bach | linkedin")
+[<img alt="Hippolyte | LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/>](https://l.bach.fr/link "Hippolyte Bach | linkedin")
 <br/><br/>
 
 ### Languages and Tools:
