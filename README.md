@@ -2,6 +2,7 @@
 
 I'm a french engineering student at ISEP. I'm doing my best to improve my coding skills ! 🧑🏻‍💻<br>
 Feel free to check my **[portfolio](https://bach.fr "Hippolyte Bach")**.
+You want me to develop something for you ? Contact me !
 
 ### Connect with me:
 
